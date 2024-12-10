@@ -3,11 +3,13 @@
 A robust and user-friendly **Inventory Management System** designed to streamline the process of managing inventory for businesses of all sizes. The system allows users to track products, manage stock levels, and generate reports efficiently.
 
 ## Table of Contents
+- [Deployment Links](#deplyment-links)
+- [API Documentation](#api-documentation)
 - [Features](#features)
 - [Tech Stack](#tech-stack)
 - [Setup](#setup)
-- [Usage](#usage)
-- [API Documentation](#api-documentation)
+- [Screenshots](#Screenshots)
+
 
 ---
 
@@ -15,6 +17,12 @@ A robust and user-friendly **Inventory Management System** designed to streamlin
 
 - **Frontend**: [Checkout the website](https://tensight.netlify.app/)
 - **Backend**: [Deployed Backend Link](https://tensight-ims-2.onrender.com)
+
+---
+
+## API Documentation
+
+- https://documenter.getpostman.com/view/28284142/2sAYHwHPqU
 
 ---
 
