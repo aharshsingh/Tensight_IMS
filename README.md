@@ -11,6 +11,13 @@ A robust and user-friendly **Inventory Management System** designed to streamlin
 
 ---
 
+## Deployment Links
+
+- **Frontend**: [Checkout the website](https://tensight.netlify.app/)
+- **Backend**: [Deployed Backend Link](https://tensight-ims-2.onrender.com)
+
+---
+
 ## Features
 - **Product Management**: Add, update, delete, and categorize products.
 - **Stock Management**: Track stock levels, set reorder points, and manage inventory alerts.
